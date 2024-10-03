@@ -11,6 +11,10 @@ h1 {
   margin: 10% auto;
  }
  
+ label {
+   color: white;
+}
+ 
  footer {
     color: white;
     margin: 12%;
