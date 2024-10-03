@@ -3,7 +3,6 @@
     emailjs.init("wJX7PDg_ocIW4EP6s");
 })();
 
-
 // Function to send email using EmailJS
 document.getElementById('contact-form').addEventListener('submit', function(event) {
     event.preventDefault();
