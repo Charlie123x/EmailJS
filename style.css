@@ -1,0 +1,12 @@
+h1 {
+    text-align: center;
+    justify-content: center;
+ }
+ body {
+  background-image: url("charliegwapo.gif");
+  background-size: cover;
+  text-align: center;
+  margin: 10% auto;
+ }
+
+ 
